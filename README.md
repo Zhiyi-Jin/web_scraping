@@ -1,4 +1,4 @@
-# web_scraping
+# Web Scraping
  
 This is a simple project for web scraping strategy. Following tools in R are used to scrape data from the website of Billboard Japan Hot 100. 
 
